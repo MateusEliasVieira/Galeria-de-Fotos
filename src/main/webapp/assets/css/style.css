@@ -1,0 +1,18 @@
+h1 {
+	margin: 50px auto 20px auto;
+	text-align: center;
+}
+#btnGallery{
+	display:block;
+	width:400px;
+	margin:0px auto;
+}
+form {
+	width: 80%;
+	margin: 50px auto;
+}
+h6{
+	padding:10px;
+	text-align: center;
+	color:red;
+}
